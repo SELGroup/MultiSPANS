@@ -10,4 +10,5 @@ The project can be fully adapted to Libcity benckmark.
 The implementation of MultiSPANS is under Python 3.10, with the following key packages installed:
 
 pytorch == 1.12.0
+
 torch-geometric == 2.3.0
